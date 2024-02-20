@@ -48,9 +48,9 @@ Por fim se você deseja executar o projeto localmente, basta ter o PHP executand
 
 No Gerenciador de Banco de dados(geralmente o phpMyAdmin) crie um banco de dados chamado "testeestagio" e nele Importe a tabela "candidato" que deixei disponível nos arquivos do projeto. 
 
-Após isso crie um diretório com o nome que desejar dentro da pasta "htdocs" dos arquivos do Servidor Apache(pode ser "www", mas depende de qual kit de execução você instalou. Eu recomento o XAMPP). 
+Após isso crie um diretório com o nome que desejar dentro da pasta "htdocs" dos arquivos do Servidor Apache(pode ser "www", mas depende de qual kit de execução você instalou. Eu recomento o XAMPP) e transfira todos os arquivos do projeto para dentro dessa pasta com exceção do arquivo exportado da estrutura da tabela "candidato". 
 
 Agora com o Apache e o Mysql em execução, execute localmente o projeto! Para facilitar, caso prefira não seguir estes passos de execução, deixei o projeto hospedado neste link: https://creativerocket.wuaze.com/index.php
 
 # Considerações finais
-Agradeço pela oportunidade e espero poder fazer parte do time!
+Qualquer dúvida pode entrar em contato comigo. Agradeço pela oportunidade e espero poder fazer parte do time!
