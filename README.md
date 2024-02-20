@@ -35,3 +35,22 @@ Diretório "js" que contém um único arquivo responsável pela lógica de manip
 
 E por último, o principal arquivo desse projeto onde apresenta a Landing Page em si contendo o código HTML e que não faz parte de nenhum diretório.
   - index.php
+
+# Banco de Dados
+Como disse anteriormente o Banco de dados utilizado foi o Mysql contendo a seguinte estrutura:
+  - Nome do Banco: testeestagio
+  - Tabelas: possui apenas uma tabela chamada "candidato" com os campos id, nome, email, nascimento, telefone.
+
+Deixei disponível o arquivo exportado da estrutura da tabela "candidato" junto aos arquivos do projeto(solto juntamente com o index.php).
+
+# Como executar?
+Por fim se você deseja executar o projeto localmente, basta ter o PHP executando em um servidor Apache e Banco de Dados Mysql(Wampp, Lampp, Xampp ou qual preferir).
+
+No Gerenciador de Banco de dados(geralmente o phpMyAdmin) crie um banco de dados chamado "testeestagio" e nele Importe a tabela "candidato" que deixei disponível nos arquivos do projeto. 
+
+Após isso crie um diretório com o nome que desejar dentro da pasta "htdocs" dos arquivos do Servidor Apache(pode ser "www", mas depende de qual kit de execução você instalou. Eu recomento o XAMPP). 
+
+Agora com o Apache e o Mysql em execução, execute localmente o projeto! Para facilitar, caso prefira não seguir estes passos de execução, deixei o projeto hospedado neste link: https://creativerocket.wuaze.com/index.php
+
+# Considerações finais
+Agradeço pela oportunidade e espero poder fazer parte do time!
