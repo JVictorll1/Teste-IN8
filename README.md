@@ -36,6 +36,8 @@ Diretório "js" que contém um único arquivo responsável pela lógica de manip
 E por último, o principal arquivo desse projeto onde apresenta a Landing Page em si contendo o código HTML e que não faz parte de nenhum diretório.
   - index.php
 
+Observação: Não mencionei o arquivo "candidato.sql" porque ele serve apenas para ser baixado para futura Importação da tabela, pois o mesmo não faz parte do código fonte do projeto(Back e Front).
+
 # Banco de Dados
 Como disse anteriormente o Banco de dados utilizado foi o Mysql contendo a seguinte estrutura:
   - Nome do Banco: testeestagio
